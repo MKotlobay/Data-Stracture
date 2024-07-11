@@ -1,0 +1,21 @@
+X:\Software Engineering\Data Structure - C#\Main Build Bases\Build Base\Build Base\obj\Debug\Data Stracture.csproj.AssemblyReference.cache
+X:\Software Engineering\Data Structure - C#\Main Build Bases\Build Base\Build Base\obj\Debug\Data Stracture.csproj.CoreCompileInputs.cache
+X:\Software Engineering\Data Structure - C#\Main Build Bases\Build Base\Build Base\obj\Debug\Build Base.exe
+X:\Software Engineering\Data Structure - C#\Main Build Bases\Build Base\Build Base\obj\Debug\Build Base.pdb
+X:\Software Engineering\Data Structure - C#\Main Build Bases\Build Base\Build Base\bin\Debug\Build Base.exe.config
+X:\Software Engineering\Data Structure - C#\Main Build Bases\Build Base\Build Base\bin\Debug\Build Base.exe
+X:\Software Engineering\Data Structure - C#\Main Build Bases\Build Base\Build Base\bin\Debug\Build Base.pdb
+X:\Software Engineering\Data Structure - C#\Data Stracture\Data Stracture\bin\Debug\Build Base.exe.config
+X:\Software Engineering\Data Structure - C#\Data Stracture\Data Stracture\bin\Debug\Build Base.exe
+X:\Software Engineering\Data Structure - C#\Data Stracture\Data Stracture\bin\Debug\Build Base.pdb
+X:\Software Engineering\Data Structure - C#\Data Stracture\Data Stracture\obj\Debug\Data Stracture.csproj.AssemblyReference.cache
+X:\Software Engineering\Data Structure - C#\Data Stracture\Data Stracture\obj\Debug\Data Stracture.csproj.CoreCompileInputs.cache
+X:\Software Engineering\Data Structure - C#\Data Stracture\Data Stracture\obj\Debug\Build Base.exe
+X:\Software Engineering\Data Structure - C#\Data Stracture\Data Stracture\obj\Debug\Build Base.pdb
+X:\Software Engineering\Data Structure - C#\Data Stracture\obj\Debug\Data Stracture.csproj.AssemblyReference.cache
+X:\Software Engineering\Data Structure - C#\Data Stracture\obj\Debug\Data Stracture.csproj.CoreCompileInputs.cache
+X:\Software Engineering\Data Structure - C#\Data Stracture\obj\Debug\Build Base.exe
+X:\Software Engineering\Data Structure - C#\Data Stracture\obj\Debug\Build Base.pdb
+X:\Software Engineering\Data Structure - C#\Data Stracture\bin\Debug\Build Base.exe.config
+X:\Software Engineering\Data Structure - C#\Data Stracture\bin\Debug\Build Base.exe
+X:\Software Engineering\Data Structure - C#\Data Stracture\bin\Debug\Build Base.pdb

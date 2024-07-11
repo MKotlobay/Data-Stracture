@@ -1,0 +1,14 @@
+X:\Software Engineering\Data Structure - C#\Main Build Bases\Build Base\Build Base\obj\Debug\Build Base.csproj.AssemblyReference.cache
+X:\Software Engineering\Data Structure - C#\Main Build Bases\Build Base\Build Base\obj\Debug\Build Base.csproj.CoreCompileInputs.cache
+X:\Software Engineering\Data Structure - C#\Main Build Bases\Build Base\Build Base\bin\Debug\Build Base.exe.config
+X:\Software Engineering\Data Structure - C#\Main Build Bases\Build Base\Build Base\bin\Debug\Build Base.exe
+X:\Software Engineering\Data Structure - C#\Main Build Bases\Build Base\Build Base\bin\Debug\Build Base.pdb
+X:\Software Engineering\Data Structure - C#\Main Build Bases\Build Base\Build Base\obj\Debug\Build Base.exe
+X:\Software Engineering\Data Structure - C#\Main Build Bases\Build Base\Build Base\obj\Debug\Build Base.pdb
+\\Mac\OneDrive-Personal\Software Engineering\Data Structure - C#\Main Build Bases\Build Base\Build Base\bin\Debug\Build Base.exe.config
+\\Mac\OneDrive-Personal\Software Engineering\Data Structure - C#\Main Build Bases\Build Base\Build Base\bin\Debug\Build Base.exe
+\\Mac\OneDrive-Personal\Software Engineering\Data Structure - C#\Main Build Bases\Build Base\Build Base\bin\Debug\Build Base.pdb
+\\Mac\OneDrive-Personal\Software Engineering\Data Structure - C#\Main Build Bases\Build Base\Build Base\obj\Debug\Build Base.csproj.AssemblyReference.cache
+\\Mac\OneDrive-Personal\Software Engineering\Data Structure - C#\Main Build Bases\Build Base\Build Base\obj\Debug\Build Base.csproj.CoreCompileInputs.cache
+\\Mac\OneDrive-Personal\Software Engineering\Data Structure - C#\Main Build Bases\Build Base\Build Base\obj\Debug\Build Base.exe
+\\Mac\OneDrive-Personal\Software Engineering\Data Structure - C#\Main Build Bases\Build Base\Build Base\obj\Debug\Build Base.pdb
