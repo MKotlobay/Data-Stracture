@@ -43,15 +43,13 @@ namespace Build_Base.Practices
             Console.WriteLine("List to remove:");
             SelectAndRemove(head, 3);
             Console.WriteLine("------");
-            //head.ToPrintCircular();
         }
 
         public void SelectAndRemove(Node<int> list, int num)
         {
             if (Node<int>.IsCircleChain(list) == false) { return; } // Checks if list is circular chain
 
-            Node<int> head = list;
-            Node<int> current = head;
+            Node<int> current = list;
 
             while (current != current.GetNext()) // Loop continues iterating until there's only one node left in the circular list
             {
@@ -60,22 +58,18 @@ namespace Build_Base.Practices
                 Console.WriteLine("Is removing " + current.GetNext());
                 num = current.GetNext().GetValue();
                 current.SetNext(current.GetNext().GetNext());
+
+                // Prints in order
+                Console.WriteLine("Whole list:");
+                current.ToPrintCircular();
+                Console.WriteLine("");
+                Console.WriteLine("------");
+
                 current = current.GetNext();
             }
             Console.WriteLine("Last node with value that left " + current);
+            current.SetNext(null); // Check it
         }
-        /*Console.WriteLine(list.GetValue());
-        while (list.GetNext() != list)
-        {
-            for (int i = 1; i < num; i++)
-            {
-                list =list.GetNext();
-            }
-            Console.WriteLine(list.GetNext().GetValue());
-            num = list.GetNext().GetValue();
-            list.SetNext(list.GetNext().GetNext());
-            list = list.GetNext();
-        }*/
         #endregion End task 1
 
         #region Task 2
@@ -101,21 +95,37 @@ namespace Build_Base.Practices
             n6.SetNext(n7);
             n7.SetNext(n8);
             n8.SetNext(n9);
-            //n9.SetNext(head);
+            n9.SetNext(head);
 
-            GetLast(head);
+            head = GetLastDisconnected(head); // Returns a new List
+            Console.WriteLine(head.HasNext()); // Checks if it been disconnected
+            Console.WriteLine(head.ToPrint());
         }
 
-        public void GetLast(Node<int> head) // Check meaning of head
+        public Node<int> GetLastDisconnected(Node<int> list) // Check meaning of head
         {
-            Node<int> node = head;
-            while (node != head.GetNext())
+            Node<int> listHead = list;
+
+            Node<int> head = null;
+            Node<int> current = list;
+
+            do // Using do...while loop cause at the start void equality for list to listHead - that's gives also move the latest Node
             {
-                Console.WriteLine(head.GetValue());
-                head = head.GetNext();
-            }
-            Console.WriteLine(head.GetValue());
-            head.SetNext(null);
+                Node<int> tempNode = new Node<int>(list.GetValue());
+                if (head == null)
+                {
+                    head = tempNode;
+                    current = head;
+                }
+                else
+                {
+                    current.SetNext(tempNode);
+                    current = tempNode;
+                }
+                list = list.GetNext();
+            } while (listHead != list);
+            
+            return head;
         }
         #endregion End task 2
     }
