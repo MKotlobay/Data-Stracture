@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "X:\\Software Engineering\\Data Structure - C#\\Data Stracture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6F5F444-E4C8-45AA-8D0F-25F450BAADA6}|Data Stracture.csproj|x:\\software engineering\\data structure - c#\\data stracture\\practices\\practice-lab_05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6F5F444-E4C8-45AA-8D0F-25F450BAADA6}|Data Stracture.csproj|solutionrelative:practices\\practice-lab_05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6F5F444-E4C8-45AA-8D0F-25F450BAADA6}|Data Stracture.csproj|x:\\software engineering\\data structure - c#\\data stracture\\practices\\practice-lab_06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5F444-E4C8-45AA-8D0F-25F450BAADA6}|Data Stracture.csproj|solutionrelative:practices\\practice-lab_06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6F5F444-E4C8-45AA-8D0F-25F450BAADA6}|Data Stracture.csproj|X:\\Software Engineering\\Data Structure - C#\\Data Stracture\\customclasses\\garbage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6F5F444-E4C8-45AA-8D0F-25F450BAADA6}|Data Stracture.csproj|solutionrelative:customclasses\\garbage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6F5F444-E4C8-45AA-8D0F-25F450BAADA6}|Data Stracture.csproj|X:\\Software Engineering\\Data Structure - C#\\Data Stracture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6F5F444-E4C8-45AA-8D0F-25F450BAADA6}|Data Stracture.csproj|x:\\software engineering\\data structure - c#\\data stracture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6F5F444-E4C8-45AA-8D0F-25F450BAADA6}|Data Stracture.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6F5F444-E4C8-45AA-8D0F-25F450BAADA6}|Data Stracture.csproj|X:\\Software Engineering\\Data Structure - C#\\Data Stracture\\customclasses\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6F5F444-E4C8-45AA-8D0F-25F450BAADA6}|Data Stracture.csproj|solutionrelative:customclasses\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6F5F444-E4C8-45AA-8D0F-25F450BAADA6}|Data Stracture.csproj|X:\\Software Engineering\\Data Structure - C#\\Data Stracture\\mainclasses\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5F444-E4C8-45AA-8D0F-25F450BAADA6}|Data Stracture.csproj|solutionrelative:mainclasses\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,51 +34,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Item.cs",
-              "DocumentMoniker": "X:\\Software Engineering\\Data Structure - C#\\Data Stracture\\CustomClasses\\Item.cs",
-              "RelativeDocumentMoniker": "CustomClasses\\Item.cs",
-              "ToolTip": "X:\\Software Engineering\\Data Structure - C#\\Data Stracture\\CustomClasses\\Item.cs",
-              "RelativeToolTip": "CustomClasses\\Item.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "X:\\Software Engineering\\Data Structure - C#\\Data Stracture\\MainClasses\\Node.cs",
+              "RelativeDocumentMoniker": "MainClasses\\Node.cs",
+              "ToolTip": "X:\\Software Engineering\\Data Structure - C#\\Data Stracture\\MainClasses\\Node.cs",
+              "RelativeToolTip": "MainClasses\\Node.cs",
+              "ViewState": "AQIAABkAAADQzMzMzCwzwDQAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T17:02:45.125Z"
+              "WhenOpened": "2024-07-12T13:55:36.252Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "X:\\Software Engineering\\Data Structure - C#\\Data Stracture\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "X:\\Software Engineering\\Data Structure - C#\\Data Stracture\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAIAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAewDoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T17:05:00.503Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Garbage.cs",
-              "DocumentMoniker": "X:\\Software Engineering\\Data Structure - C#\\Data Stracture\\CustomClasses\\Garbage.cs",
-              "RelativeDocumentMoniker": "CustomClasses\\Garbage.cs",
-              "ToolTip": "X:\\Software Engineering\\Data Structure - C#\\Data Stracture\\CustomClasses\\Garbage.cs",
-              "RelativeToolTip": "CustomClasses\\Garbage.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAASwCgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T17:06:17.471Z"
+              "WhenOpened": "2024-07-12T15:27:32.989Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Practice-Lab_05.cs",
-              "DocumentMoniker": "X:\\Software Engineering\\Data Structure - C#\\Data Stracture\\Practices\\Practice-Lab_05.cs",
-              "RelativeDocumentMoniker": "Practices\\Practice-Lab_05.cs",
-              "ToolTip": "X:\\Software Engineering\\Data Structure - C#\\Data Stracture\\Practices\\Practice-Lab_05.cs",
-              "RelativeToolTip": "Practices\\Practice-Lab_05.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAdAAAA",
+              "Title": "Practice-Lab_06.cs",
+              "DocumentMoniker": "X:\\Software Engineering\\Data Structure - C#\\Data Stracture\\Practices\\Practice-Lab_06.cs",
+              "RelativeDocumentMoniker": "Practices\\Practice-Lab_06.cs",
+              "ToolTip": "X:\\Software Engineering\\Data Structure - C#\\Data Stracture\\Practices\\Practice-Lab_06.cs*",
+              "RelativeToolTip": "Practices\\Practice-Lab_06.cs*",
+              "ViewState": "AQIAABgAAACAAAAAAAApwD4AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T16:56:02.461Z",
+              "WhenOpened": "2024-07-12T13:55:00.673Z",
               "EditorCaption": ""
             }
           ]

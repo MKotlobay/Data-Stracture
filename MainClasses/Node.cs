@@ -53,5 +53,43 @@ namespace Data_Stracture.MainClasses
                 return value + "=>" + this.next.ToPrint();
             return value + "=>null";
         }
+
+        #region Custom code
+        public void ToPrintCircular()
+        {
+            Node<T> head = this;
+            Node<T> current = head;
+
+            while (current.GetNext() != head && current.GetNext() != null)
+            {
+                Console.Write(current + " => ");
+                current = current.GetNext();
+            }
+            Console.Write(current);
+        }
+        public static int CountCircleChain(Node<T> list)
+        {
+            Node<T> pos = list.GetNext();
+            int count = 1;
+
+            while (pos != list)
+            {
+                count++;
+                pos = pos.GetNext();
+            }
+            return count;
+        }
+        public static bool IsCircleChain(Node<T> list)
+        {
+            if (list == null) return false;
+            Node<T> pos = list.GetNext();
+
+            while(pos != null && pos != list)
+            {
+                pos = pos.GetNext();
+            }
+            return true;
+        }
+        #endregion End custom code
     }
 }

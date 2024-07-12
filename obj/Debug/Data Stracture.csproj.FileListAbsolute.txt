@@ -19,3 +19,10 @@ X:\Software Engineering\Data Structure - C#\Data Stracture\obj\Debug\Build Base.
 X:\Software Engineering\Data Structure - C#\Data Stracture\bin\Debug\Build Base.exe.config
 X:\Software Engineering\Data Structure - C#\Data Stracture\bin\Debug\Build Base.exe
 X:\Software Engineering\Data Structure - C#\Data Stracture\bin\Debug\Build Base.pdb
+\\Mac\OneDrive-Personal\Software Engineering\Data Structure - C#\Data Stracture\bin\Debug\Build Base.exe.config
+\\Mac\OneDrive-Personal\Software Engineering\Data Structure - C#\Data Stracture\bin\Debug\Build Base.exe
+\\Mac\OneDrive-Personal\Software Engineering\Data Structure - C#\Data Stracture\bin\Debug\Build Base.pdb
+\\Mac\OneDrive-Personal\Software Engineering\Data Structure - C#\Data Stracture\obj\Debug\Data Stracture.csproj.AssemblyReference.cache
+\\Mac\OneDrive-Personal\Software Engineering\Data Structure - C#\Data Stracture\obj\Debug\Data Stracture.csproj.CoreCompileInputs.cache
+\\Mac\OneDrive-Personal\Software Engineering\Data Structure - C#\Data Stracture\obj\Debug\Build Base.exe
+\\Mac\OneDrive-Personal\Software Engineering\Data Structure - C#\Data Stracture\obj\Debug\Build Base.pdb

@@ -1,4 +1,5 @@
-﻿using Data_Stracture.MainClasses;
+﻿using Build_Base.Practices;
+using Data_Stracture.MainClasses;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -47,10 +48,14 @@ namespace Data_Stracture
             //practiceLab.test();
 
 
-            Practice_Lab_05 practiceLab5 = new Practice_Lab_05();
+            //Practice_Lab_05 practiceLab5 = new Practice_Lab_05();
             //practiceLab5.task1();
             //practiceLab5.task2();
-            practiceLab5.task3();
+            //practiceLab5.task3();
+
+            Practice_Lab_06 practiceLab6 = new Practice_Lab_06();
+            practiceLab6.task1();
+            //practiceLab6.task2();
         }
     }
 }

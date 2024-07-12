@@ -51,6 +51,7 @@
     <Compile Include="CustomClasses\Expr.cs" />
     <Compile Include="CustomClasses\Garbage.cs" />
     <Compile Include="MainClasses\IntNode.cs" />
+    <Compile Include="Practices\Practice-Lab_06.cs" />
     <Compile Include="Practices\Practice_Lab_01.cs" />
     <Compile Include="CustomClasses\Item.cs" />
     <Compile Include="MainClasses\Node.cs" />

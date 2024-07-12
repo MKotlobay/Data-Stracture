@@ -99,6 +99,7 @@ namespace Data_Stracture
         }
         #endregion End task 2
 
+        #region Task 3
         public void task3()
         {
             Node<Garbage> list = buildGarbageList();
@@ -142,42 +143,6 @@ namespace Data_Stracture
         #region Not asked for
         public Node<Garbage> buildGarbageList()
         {
-            /*
-            Console.WriteLine("Num:");
-            string num = Console.ReadLine();
-            Console.WriteLine("Capacity:");
-            double capacity = Double.Parse(Console.ReadLine());
-            Console.WriteLine("Quantity:");
-            double quantity = Double.Parse(Console.ReadLine());
-            Console.WriteLine("Neightbor:");
-            string neighbor = Console.ReadLine();
-
-            Garbage firstGarbage = new Garbage(num, capacity, quantity, neighbor); // Build class
-            Node<Garbage> head = new Node<Garbage>(firstGarbage);
-            Node<Garbage> current = head;
-
-            while (num != "STOP")
-            {
-                Garbage nextGarbage = new Garbage(num, capacity, quantity, neighbor);
-                current.SetNext(new Node<Garbage>(nextGarbage));
-                current = current.GetNext();
-
-                Console.WriteLine("Num:");
-                num = Console.ReadLine();
-                if (num == "STOP")
-                {
-                    break;
-                }
-                Console.WriteLine("Capacity:");
-                capacity = Double.Parse(Console.ReadLine());
-                Console.WriteLine("Quantity:");
-                quantity = Double.Parse(Console.ReadLine());
-                Console.WriteLine("Neightbor:");
-                neighbor = Console.ReadLine();
-            }
-            return head;
-            */
-
             Garbage firstGarbage = new Garbage("1", 280, 300, "neighbor");
             Node<Garbage> head = new Node<Garbage>(firstGarbage);
 
@@ -291,6 +256,7 @@ namespace Data_Stracture
         //{
 
         //}
-        #endregion Task 3.4
+        #endregion End task 3.4
+        #endregion End task 3
     }
 }
