@@ -128,5 +128,57 @@ namespace Build_Base.Practices
             return head;
         }
         #endregion End task 2
+
+        #region Task 3
+        public void task3()
+        {
+            Node<int> head = null;
+            Node<int> current = head;
+
+            Console.WriteLine("Enter number");
+            int num = int.Parse(Console.ReadLine());
+            int counter = 0;
+
+            while (num >= 0)
+            {
+                counter++;
+                Node<int> node = new Node<int>(num);
+                if (head == null)
+                {
+                    head = node;
+                    current = head;
+                }
+                else
+                {
+                    current.SetNext(node);
+                    current = node;
+                }
+                Console.WriteLine("Enter number");
+                num = int.Parse(Console.ReadLine()); // Recives new num for next node
+            }
+            current.SetNext(head);
+            Console.WriteLine("");
+
+            for (int i = 0; i < counter; i++)
+            {
+                NewArrange(head);
+                head = head.GetNext();
+                Console.WriteLine("");
+            }
+        }
+
+        public Node<int> NewArrange(Node<int> list)
+        {
+            Node<int> head = list.GetNext();
+
+            Console.Write(list.GetValue());
+            while (list != head)
+            {
+                Console.Write(head);
+                head = head.GetNext();
+            }
+            return head;
+        }
+        #endregion End task 3
     }
 }

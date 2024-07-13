@@ -55,7 +55,8 @@ namespace Data_Stracture
 
             Practice_Lab_06 practiceLab6 = new Practice_Lab_06();
             //practiceLab6.task1();
-            practiceLab6.task2();
+            //practiceLab6.task2();
+            practiceLab6.task3();
         }
     }
 }
