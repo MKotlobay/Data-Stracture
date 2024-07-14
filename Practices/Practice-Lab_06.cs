@@ -1,4 +1,5 @@
-﻿using Data_Stracture.MainClasses;
+﻿using Build_Base.CustomClasses;
+using Data_Stracture.MainClasses;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -180,5 +181,27 @@ namespace Build_Base.Practices
             return head;
         }
         #endregion End task 3
+
+        #region Task 4
+        public void task4()
+        {
+            Game boardGame = new Game();
+
+            for (int i = 0;i < 10; i++)
+            {
+                boardGame.MovePlayer(Dice());
+            }
+        }
+
+        public int Dice()
+        {
+            Random rnd = new Random();
+
+            int num1 = rnd.Next(1,7);
+            int num2 = rnd.Next(1,7);
+
+            return num1 + num2;
+        }
+        #endregion End task 4
     }
 }

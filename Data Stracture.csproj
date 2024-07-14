@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CustomClasses\Circle.cs" />
+    <Compile Include="CustomClasses\Game.cs" />
     <Compile Include="CustomClasses\Point.cs" />
     <Compile Include="CustomClasses\Expr.cs" />
     <Compile Include="CustomClasses\Garbage.cs" />
