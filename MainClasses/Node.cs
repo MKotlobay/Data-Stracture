@@ -88,7 +88,8 @@ namespace Data_Stracture.MainClasses
             {
                 pos = pos.GetNext();
             }
-            return true;
+            if (pos.HasNext()) return true;
+            return false;
         }
         #endregion End custom code
     }

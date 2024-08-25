@@ -44,6 +44,9 @@ namespace Data_Stracture
             //    n1 = n1.GetNext();
             //}
 
+            Practice_Lab_03 practice_Lab_3 = new Practice_Lab_03();
+            practice_Lab_3.test1();
+
             //Practice_Lab_04 practiceLab4 = new Practice_Lab_04();
             //practiceLab.test();
 
@@ -53,11 +56,18 @@ namespace Data_Stracture
             //practiceLab5.task2();
             //practiceLab5.task3();
 
-            Practice_Lab_06 practiceLab6 = new Practice_Lab_06();
+            //Practice_Lab_06 practiceLab6 = new Practice_Lab_06();
             //practiceLab6.task1();
             //practiceLab6.task2();
             //practiceLab6.task3();
-            practiceLab6.task4();
+            //practiceLab6.task4();
+
+            //Practice_Lab_07 practiceLab7 = new Practice_Lab_07();
+            //practiceLab7.task1();
+            //practiceLab7.task2();
+            //practiceLab7.task3();
+            //practiceLab7.task4();
+            //practiceLab7.task5();
         }
     }
 }

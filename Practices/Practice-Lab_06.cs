@@ -133,56 +133,49 @@ namespace Build_Base.Practices
         #region Task 3
         public void task3()
         {
-            Node<int> head = null;
-            Node<int> current = head;
+            Node<int> head = new Node<int>(1);
+            Node<int> n1 = new Node<int>(2);
+            Node<int> n2 = new Node<int>(3);
+            Node<int> n3 = new Node<int>(4);
 
-            Console.WriteLine("Enter number");
-            int num = int.Parse(Console.ReadLine());
-            int counter = 0;
+            head.SetNext(n1);
+            n1.SetNext(n2);
+            n2.SetNext(n3);
+            n3.SetNext(head);
 
-            while (num >= 0)
+            PrintVarients(head);
+        }
+
+        public void PrintVarients(Node<int> list)
+        {
+            Node<int> head = list;
+            Node<int> current = head.GetNext();
+
+            Node<int> counterList = head.GetNext();
+            int counter = 1;
+
+            while (counterList != head)
             {
                 counter++;
-                Node<int> node = new Node<int>(num);
-                if (head == null)
-                {
-                    head = node;
-                    current = head;
-                }
-                else
-                {
-                    current.SetNext(node);
-                    current = node;
-                }
-                Console.WriteLine("Enter number");
-                num = int.Parse(Console.ReadLine()); // Recives new num for next node
+                counterList = counterList.GetNext();
             }
-            current.SetNext(head);
-            Console.WriteLine("");
 
             for (int i = 0; i < counter; i++)
             {
-                NewArrange(head);
+                while (current != head)
+                {
+                    Console.Write(current);
+                    current = current.GetNext();
+                }
+                Console.Write(current);
+                Console.WriteLine();
                 head = head.GetNext();
-                Console.WriteLine("");
+                current = head.GetNext();
             }
-        }
-
-        public Node<int> NewArrange(Node<int> list)
-        {
-            Node<int> head = list.GetNext();
-
-            Console.Write(list.GetValue());
-            while (list != head)
-            {
-                Console.Write(head);
-                head = head.GetNext();
-            }
-            return head;
         }
         #endregion End task 3
 
-        #region Task 4
+        #region Task 4 - Not Finished
         public void task4()
         {
             Game boardGame = new Game();
