@@ -53,6 +53,7 @@
     <Compile Include="CustomClasses\Garbage.cs" />
     <Compile Include="MainClasses\BinNode.cs" />
     <Compile Include="MainClasses\IntNode.cs" />
+    <Compile Include="MainClasses\Stack.cs" />
     <Compile Include="Practices\Practice-Lab_06.cs" />
     <Compile Include="Practices\Practice-Lab_07.cs" />
     <Compile Include="Practices\Practice-Lab_01.cs" />
@@ -64,6 +65,7 @@
     <Compile Include="Practices\Practice-Lab_05.cs" />
     <Compile Include="CustomClasses\Poly.cs" />
     <Compile Include="CustomClasses\Polynom.cs" />
+    <Compile Include="Practices\Practice-Lab_09.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
