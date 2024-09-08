@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static Build_Base.CustomClasses.program;
 
 namespace Data_Stracture
 {
@@ -69,7 +70,7 @@ namespace Data_Stracture
             //practiceLab7.task4();
             //practiceLab7.task5();
 
-            Practice_Lab_09 practice_Lab_9 = new Practice_Lab_09();
+            //Practice_Lab_09 practice_Lab_9 = new Practice_Lab_09();
             //practice_Lab_9.task1();
             //practice_Lab_9.task2();
             //practice_Lab_9.task3();
@@ -78,7 +79,9 @@ namespace Data_Stracture
             //practice_Lab_9.task6();
             //practice_Lab_9.task7();
             //practice_Lab_9.task8();
-            practice_Lab_9.task9();
+            //practice_Lab_9.task9();
+
+            Task();
         }
     }
 }
