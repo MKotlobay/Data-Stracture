@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "X:\\Software Engineering\\Data-Stracture\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E6F5F444-E4C8-45AA-8D0F-25F450BAADA6}|Data Stracture.csproj|x:\\software engineering\\data-stracture\\campuspractices\\practicestacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5F444-E4C8-45AA-8D0F-25F450BAADA6}|Data Stracture.csproj|solutionrelative:campuspractices\\practicestacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F5F444-E4C8-45AA-8D0F-25F450BAADA6}|Data Stracture.csproj|X:\\Software Engineering\\Data-Stracture\\mainclasses\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5F444-E4C8-45AA-8D0F-25F450BAADA6}|Data Stracture.csproj|solutionrelative:mainclasses\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F5F444-E4C8-45AA-8D0F-25F450BAADA6}|Data Stracture.csproj|X:\\Software Engineering\\Data-Stracture\\practices\\practice-lab_11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5F444-E4C8-45AA-8D0F-25F450BAADA6}|Data Stracture.csproj|solutionrelative:practices\\practice-lab_11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E6F5F444-E4C8-45AA-8D0F-25F450BAADA6}|Data Stracture.csproj|X:\\Software Engineering\\Data-Stracture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6F5F444-E4C8-45AA-8D0F-25F450BAADA6}|Data Stracture.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6F5F444-E4C8-45AA-8D0F-25F450BAADA6}|Data Stracture.csproj|x:\\software engineering\\data-stracture\\customclasses\\trainroadcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6F5F444-E4C8-45AA-8D0F-25F450BAADA6}|Data Stracture.csproj|solutionrelative:customclasses\\trainroadcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6F5F444-E4C8-45AA-8D0F-25F450BAADA6}|Data Stracture.csproj|x:\\software engineering\\data-stracture\\practices\\practice-lab_09.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6F5F444-E4C8-45AA-8D0F-25F450BAADA6}|Data Stracture.csproj|solutionrelative:practices\\practice-lab_09.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6F5F444-E4C8-45AA-8D0F-25F450BAADA6}|Data Stracture.csproj|X:\\Software Engineering\\Data-Stracture\\mainclasses\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6F5F444-E4C8-45AA-8D0F-25F450BAADA6}|Data Stracture.csproj|solutionrelative:mainclasses\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 247,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,54 +42,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TrainRoadCars.cs",
-              "DocumentMoniker": "X:\\Software Engineering\\Data-Stracture\\CustomClasses\\TrainRoadCars.cs",
-              "RelativeDocumentMoniker": "CustomClasses\\TrainRoadCars.cs",
-              "ToolTip": "X:\\Software Engineering\\Data-Stracture\\CustomClasses\\TrainRoadCars.cs",
-              "RelativeToolTip": "CustomClasses\\TrainRoadCars.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "PracticeStacks.cs",
+              "DocumentMoniker": "X:\\Software Engineering\\Data-Stracture\\CampusPractices\\PracticeStacks.cs",
+              "RelativeDocumentMoniker": "CampusPractices\\PracticeStacks.cs",
+              "ToolTip": "X:\\Software Engineering\\Data-Stracture\\CampusPractices\\PracticeStacks.cs",
+              "RelativeToolTip": "CampusPractices\\PracticeStacks.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAgwBgBAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T22:12:11.429Z",
+              "WhenOpened": "2024-09-18T16:15:21.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "X:\\Software Engineering\\Data-Stracture\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "X:\\Software Engineering\\Data-Stracture\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAEQAAAAAaGZmZmYTwFMAAAATAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Queue.cs",
+              "DocumentMoniker": "X:\\Software Engineering\\Data-Stracture\\MainClasses\\Queue.cs",
+              "RelativeDocumentMoniker": "MainClasses\\Queue.cs",
+              "ToolTip": "X:\\Software Engineering\\Data-Stracture\\MainClasses\\Queue.cs",
+              "RelativeToolTip": "MainClasses\\Queue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T17:41:18.801Z",
+              "WhenOpened": "2024-09-15T16:50:34.439Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Practice-Lab_09.cs",
-              "DocumentMoniker": "X:\\Software Engineering\\Data-Stracture\\Practices\\Practice-Lab_09.cs",
-              "RelativeDocumentMoniker": "Practices\\Practice-Lab_09.cs",
-              "ToolTip": "X:\\Software Engineering\\Data-Stracture\\Practices\\Practice-Lab_09.cs",
-              "RelativeToolTip": "Practices\\Practice-Lab_09.cs",
-              "ViewState": "AgIAAOoAAAAAn5mZmRklwAEBAABGAAAAAAAAAA==",
+              "Title": "Practice-Lab_11.cs",
+              "DocumentMoniker": "X:\\Software Engineering\\Data-Stracture\\Practices\\Practice-Lab_11.cs",
+              "RelativeDocumentMoniker": "Practices\\Practice-Lab_11.cs",
+              "ToolTip": "X:\\Software Engineering\\Data-Stracture\\Practices\\Practice-Lab_11.cs",
+              "RelativeToolTip": "Practices\\Practice-Lab_11.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T17:11:10.029Z",
+              "WhenOpened": "2024-09-15T15:14:22.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Stack.cs",
-              "DocumentMoniker": "X:\\Software Engineering\\Data-Stracture\\MainClasses\\Stack.cs",
-              "RelativeDocumentMoniker": "MainClasses\\Stack.cs",
-              "ToolTip": "X:\\Software Engineering\\Data-Stracture\\MainClasses\\Stack.cs",
-              "RelativeToolTip": "MainClasses\\Stack.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAwwCoAAAAJAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\Software Engineering\\Data-Stracture\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "X:\\Software Engineering\\Data-Stracture\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAhwFgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T17:00:49.243Z"
+              "WhenOpened": "2024-08-25T17:41:18.801Z",
+              "EditorCaption": ""
             }
           ]
         }
