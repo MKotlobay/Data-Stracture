@@ -3,7 +3,7 @@ using Build_Base.MainClasses;
 
 namespace Build_Base.CustomClasses
 {
-    public class program
+    public class TrainRoad
     {
         public static void Task()
         {

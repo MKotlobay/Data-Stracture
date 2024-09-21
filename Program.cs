@@ -5,7 +5,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using static Build_Base.CustomClasses.program;
+using static Build_Base.CustomClasses.TrainRoad;
+using Build_Base.CampusPractices;
 
 namespace Data_Stracture
 {
@@ -81,7 +82,19 @@ namespace Data_Stracture
             //practice_Lab_9.task8();
             //practice_Lab_9.task9();
 
-            Task();
+            //Task();
+            //PracticeStacks.Chapter4Task3();
+            //PracticeStacks.Chapter4Task5();
+            //PracticeStacks.Chapter4Task6();
+            PracticeStacks.Chapter4Task9();
+
+            Practice_Lab_11 practice_Lab_11 = new Practice_Lab_11();
+            //practice_Lab_11.task1();
+            //practice_Lab_11.task2();
+            //practice_Lab_11.task3();
+            //practice_Lab_11.task4();
+            //practice_Lab_11.task5();
+            //practice_Lab_11.task6();
         }
     }
 }
