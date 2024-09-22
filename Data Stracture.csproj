@@ -53,6 +53,7 @@
     <Compile Include="CustomClasses\Expr.cs" />
     <Compile Include="CustomClasses\Garbage.cs" />
     <Compile Include="CustomClasses\TrainRoadCars.cs" />
+    <Compile Include="ExamPractice\Spring2023A.cs" />
     <Compile Include="MainClasses\BinNode.cs" />
     <Compile Include="MainClasses\IntNode.cs" />
     <Compile Include="MainClasses\Queue.cs" />

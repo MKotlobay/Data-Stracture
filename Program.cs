@@ -1,5 +1,5 @@
 ﻿using Build_Base.Practices;
-using Data_Stracture.MainClasses;
+using Build_Base.MainClasses;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,8 +7,9 @@ using System.Text;
 using System.Threading.Tasks;
 using static Build_Base.CustomClasses.TrainRoad;
 using Build_Base.CampusPractices;
+using Build_Base.ExamPractice;
 
-namespace Data_Stracture
+namespace Build_Base
 {
     internal class Program
     {
@@ -86,15 +87,18 @@ namespace Data_Stracture
             //PracticeStacks.Chapter4Task3();
             //PracticeStacks.Chapter4Task5();
             //PracticeStacks.Chapter4Task6();
-            PracticeStacks.Chapter4Task9();
+            //PracticeStacks.Chapter4Task9();
 
-            Practice_Lab_11 practice_Lab_11 = new Practice_Lab_11();
+            //Practice_Lab_11 practice_Lab_11 = new Practice_Lab_11();
             //practice_Lab_11.task1();
             //practice_Lab_11.task2();
             //practice_Lab_11.task3();
             //practice_Lab_11.task4();
             //practice_Lab_11.task5();
             //practice_Lab_11.task6();
+
+            //Spring2023A.task1();
+            Spring2023A.task2();
         }
     }
 }

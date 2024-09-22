@@ -1,11 +1,11 @@
 ﻿using System;
-using Data_Stracture.MainClasses;
+using Build_Base.MainClasses;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Data_Stracture
+namespace Build_Base
 {
     public class Practice_Lab_01
     {

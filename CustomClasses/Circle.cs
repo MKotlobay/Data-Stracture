@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Data_Stracture.CustomClasses
+namespace Build_Base.CustomClasses
 {
     public class Circle
     {
