@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Data_Stracture.CustomClasses
+namespace Build_Base.CustomClasses
 {
     public class Expr
     {
