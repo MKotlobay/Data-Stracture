@@ -71,6 +71,7 @@
     <Compile Include="CustomClasses\Polynom.cs" />
     <Compile Include="Practices\Practice-Lab_09.cs" />
     <Compile Include="Practices\Practice-Lab_11.cs" />
+    <Compile Include="Practices\Practice-Lab_12.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -98,7 +98,10 @@ namespace Build_Base
             //practice_Lab_11.task6();
 
             //Spring2023A.task1();
-            Spring2023A.task2();
+            //Spring2023A.task2();
+
+            Practice_Lab_12 practice_Lab_12 = new Practice_Lab_12();
+            practice_Lab_12.task1();
         }
     }
 }
